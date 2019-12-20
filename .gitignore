@@ -1,1 +1,4 @@
-api-blueprint/
+api-blueprint
+package.json
+node_modules
+yarn.lock
